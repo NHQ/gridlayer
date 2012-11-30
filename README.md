@@ -12,6 +12,6 @@ Notice: I stole the toMatrix algroithm from the node module stats-array.
 	
 	//   an object at index (0,4) q.v:
 	//  { zerone: true,
-	//    ordinal: 14,
+	//    ordinal: 4,
 	//    y: 4,
-	//    x: 2 }
+	//    x: 0 }
